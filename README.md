@@ -1,16 +1,18 @@
-# Navigation
+# 目录
 
 [Vue](#Vue)
 
 [JavaScript](#JavaScript)
 
-[Other](#Other)
+[C#](#C#)
+
+[Ruby](#Ruby)
 
 ## Vue
 
-[awesome-vue](https://github.com/vuejs/awesome-vue) 相关项目整理
+[awesome-vue](https://github.com/vuejs/awesome-vue) Vue相关项目整理
 
-[awesome-github-vue](https://github.com/opendigg/awesome-github-vue) 相关项目整理（中文，但已经停止更新）
+[awesome-github-vue](https://github.com/opendigg/awesome-github-vue) Vue相关项目整理（中文，但已经停止更新）
 
 [mavonEditor](https://github.com/hinesboy/mavonEditor) Markdown编辑器
 
@@ -36,10 +38,12 @@
 
 [js-xlsx](https://github.com/SheetJS/js-xlsx) 读写Excel
 
-## Other
+## C#
 
 [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) SSR客户端
 
 [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) Steam挂卡
+
+## Ruby
 
 [whenever](https://github.com/javan/whenever) 定时任务
