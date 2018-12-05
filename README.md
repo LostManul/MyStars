@@ -1,6 +1,12 @@
-## 前端
+# Navigation
 
-#### vue
+[Vue](#Vue)
+
+[JavaScript](#JavaScript)
+
+[Other](#Other)
+
+## Vue
 
 [awesome-vue](https://github.com/vuejs/awesome-vue) 相关项目整理
 
@@ -22,7 +28,7 @@
 
 [vue-trend](https://github.com/QingWei-Li/vue-trend) 颜色渐变的曲线
 
-#### js
+## JavaScript
 
 [particles.js](https://github.com/VincentGarreau/particles.js) 粒子效果的背景
 
@@ -30,9 +36,8 @@
 
 [js-xlsx](https://github.com/SheetJS/js-xlsx) 读写Excel
 
-## 后端
+## Other
 
-## 应用
 [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) SSR客户端
 
 [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) Steam挂卡
