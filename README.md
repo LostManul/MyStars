@@ -1,10 +1,12 @@
+自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
+
 # 目录
 
 [Vue](#Vue)
 
 [JavaScript](#JavaScript)
 
-[C#](#C#)
+[CSharp](#CSharp)
 
 [Ruby](#Ruby)
 
@@ -38,7 +40,7 @@
 
 [js-xlsx](https://github.com/SheetJS/js-xlsx) 读写Excel
 
-## C#
+## CSharp
 
 [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) SSR客户端
 
