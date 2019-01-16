@@ -40,6 +40,8 @@
 
 [js-xlsx](https://github.com/SheetJS/js-xlsx) 读写Excel
 
+[~~clipboard.js~~](https://github.com/zenorocha/clipboard.js) 点击按钮复制到剪切板
+
 ## CSharp
 
 [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) SSR客户端
