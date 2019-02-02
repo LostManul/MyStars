@@ -32,6 +32,10 @@
 
 [~~vue-trend~~](https://github.com/QingWei-Li/vue-trend) 颜色渐变的曲线
 
+[~~vue-clipboard2~~](https://github.com/Inndy/vue-clipboard2) 复制到剪切板
+
+[~~vue-slider-component~~](https://github.com/NightCatSama/vue-slider-component) 滑块
+
 ## JavaScript
 
 [particles.js](https://github.com/VincentGarreau/particles.js) 粒子效果的背景
