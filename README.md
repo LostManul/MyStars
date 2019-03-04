@@ -34,7 +34,7 @@
 
 [~~vue-clipboard2~~](https://github.com/Inndy/vue-clipboard2) 复制到剪切板
 
-[~~vue-slider-component~~](https://github.com/NightCatSama/vue-slider-component) 滑块
+[~~vue-json-pretty~~](https://github.com/leezng/vue-json-pretty) 将JSON字符串渲染成树形结构
 
 ## JavaScript
 
