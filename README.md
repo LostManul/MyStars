@@ -1,5 +1,7 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
+Last Stared: Vue -> v-contextmenu
+
 # 目录
 
 [Vue](#Vue)
@@ -35,6 +37,8 @@
 [~~vue-clipboard2~~](https://github.com/Inndy/vue-clipboard2) 复制到剪切板
 
 [~~vue-json-pretty~~](https://github.com/leezng/vue-json-pretty) 将JSON字符串渲染成树形结构
+
+[~~v-contextmenu~~](https://github.com/snokier/v-contextmenu) 右键菜单
 
 ## JavaScript
 
