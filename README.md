@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: Vue -> v-contextmenu
+Last Stared: snokier / v-contextmenu
 
 # 目录
 
