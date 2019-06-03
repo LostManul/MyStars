@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: snokier / v-contextmenu
+Last Stared: busyloop / lolcat
 
 # 目录
 
@@ -56,6 +56,10 @@ Last Stared: snokier / v-contextmenu
 
 [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) Steam挂卡
 
+[~~Locale-Emulator~~](https://github.com/xupefei/Locale-Emulator) 转区
+
 ## Ruby
 
 [whenever](https://github.com/javan/whenever) 定时任务
+
+[lolcat](https://github.com/busyloop/lolcat) 输出彩虹文本
