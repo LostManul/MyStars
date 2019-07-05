@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: busyloop / lolcat
+Last Stared: lost-manul / stars
 
 # 目录
 
@@ -11,6 +11,8 @@ Last Stared: busyloop / lolcat
 [CSharp](#CSharp)
 
 [Ruby](#Ruby)
+
+[Other](#Other)
 
 ## Vue
 
@@ -58,8 +60,14 @@ Last Stared: busyloop / lolcat
 
 [~~Locale-Emulator~~](https://github.com/xupefei/Locale-Emulator) 转区
 
+[PKHeX](https://github.com/kwsch/PKHeX) pokemon存档修改
+
 ## Ruby
 
 [whenever](https://github.com/javan/whenever) 定时任务
 
 [lolcat](https://github.com/busyloop/lolcat) 输出彩虹文本
+
+## Other
+
+[stars](https://github.com/lost-manul/stars) 我收藏我自己.jpg
