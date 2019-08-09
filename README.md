@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: lost-manul / stars
+Last Stared: zhaoolee / ChineseBQB
 
 # 目录
 
@@ -52,6 +52,8 @@ Last Stared: lost-manul / stars
 
 [~~clipboard.js~~](https://github.com/zenorocha/clipboard.js) 点击按钮复制到剪切板
 
+[bpmn-js](https://github.com/bpmn-io/bpmn-js) bpmn设计器
+
 ## CSharp
 
 [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) SSR客户端
@@ -70,4 +72,6 @@ Last Stared: lost-manul / stars
 
 ## Other
 
-[stars](https://github.com/lost-manul/stars) 我收藏我自己.jpg
+[url](https://github.com/caomeicloud/url) 草莓云加速器官网地址
+
+[ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 各种表情包.jpg
