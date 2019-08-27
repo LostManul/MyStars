@@ -1,12 +1,16 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: zhaoolee / ChineseBQB
+Last Stared: peterq / pan-light
 
 # 目录
 
 [Vue](#Vue)
 
 [JavaScript](#JavaScript)
+
+[Java](#Java)
+
+[Go](#Go)
 
 [CSharp](#CSharp)
 
@@ -42,6 +46,8 @@ Last Stared: zhaoolee / ChineseBQB
 
 [~~v-contextmenu~~](https://github.com/snokier/v-contextmenu) 右键菜单
 
+[~~vue-ruler-tool~~](https://github.com/gorkys/vue-ruler-tool) 一个基于vue的标尺辅助线工具
+
 ## JavaScript
 
 [particles.js](https://github.com/VincentGarreau/particles.js) 粒子效果的背景
@@ -53,6 +59,16 @@ Last Stared: zhaoolee / ChineseBQB
 [~~clipboard.js~~](https://github.com/zenorocha/clipboard.js) 点击按钮复制到剪切板
 
 [bpmn-js](https://github.com/bpmn-io/bpmn-js) bpmn设计器
+
+[~~Motrix~~](https://github.com/agalwood/Motrix) 一款全能的下载工具
+
+## Java
+
+[~~HanLP~~](https://github.com/hankcs/HanLP) 中文处理
+
+## Go
+
+[~~pan-light~~](https://github.com/peterq/pan-light) 百度网盘不限速客户端
 
 ## CSharp
 
