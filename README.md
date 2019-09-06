@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: peterq / pan-light
+Last Stared: b3log / baidu-netdisk-downloaderx
 
 # 目录
 
@@ -62,6 +62,8 @@ Last Stared: peterq / pan-light
 
 [~~Motrix~~](https://github.com/agalwood/Motrix) 一款全能的下载工具
 
+[~~baidu-netdisk-downloaderx~~](https://github.com/b3log/baidu-netdisk-downloaderx) 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac
+
 ## Java
 
 [~~HanLP~~](https://github.com/hankcs/HanLP) 中文处理
@@ -69,6 +71,8 @@ Last Stared: peterq / pan-light
 ## Go
 
 [~~pan-light~~](https://github.com/peterq/pan-light) 百度网盘不限速客户端
+
+[~~aiduPCS-Go~~](https://github.com/iikira/BaiduPCS-Go) 百度网盘客户端
 
 ## CSharp
 
@@ -91,3 +95,5 @@ Last Stared: peterq / pan-light
 [url](https://github.com/caomeicloud/url) 草莓云加速器官网地址
 
 [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 各种表情包.jpg
+
+[~~nocode~~](https://github.com/kelseyhightower/nocode) 没有代码
