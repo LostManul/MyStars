@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: b3log / baidu-netdisk-downloaderx
+Last Stared: carloscuesta / gitmoji
 
 # 目录
 
@@ -68,6 +68,8 @@ Last Stared: b3log / baidu-netdisk-downloaderx
 
 [~~HanLP~~](https://github.com/hankcs/HanLP) 中文处理
 
+[~~Mybatis-PageHelper~~](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
+
 ## Go
 
 [~~pan-light~~](https://github.com/peterq/pan-light) 百度网盘不限速客户端
@@ -97,3 +99,5 @@ Last Stared: b3log / baidu-netdisk-downloaderx
 [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 各种表情包.jpg
 
 [~~nocode~~](https://github.com/kelseyhightower/nocode) 没有代码
+
+[~~gitmoji~~](https://github.com/carloscuesta/gitmoji) git表情
