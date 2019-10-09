@@ -66,9 +66,9 @@ Last Stared: carloscuesta / gitmoji
 
 ## Java
 
-[~~HanLP~~](https://github.com/hankcs/HanLP) 中文处理
+[HanLP](https://github.com/hankcs/HanLP) 中文处理
 
-[~~Mybatis-PageHelper~~](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
+[Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
 
 ## Go
 
@@ -98,6 +98,6 @@ Last Stared: carloscuesta / gitmoji
 
 [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 各种表情包.jpg
 
-[~~nocode~~](https://github.com/kelseyhightower/nocode) 没有代码
+[nocode](https://github.com/kelseyhightower/nocode) 没有代码
 
-[~~gitmoji~~](https://github.com/carloscuesta/gitmoji) git表情
+[gitmoji](https://github.com/carloscuesta/gitmoji) git表情
