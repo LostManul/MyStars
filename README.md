@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: carloscuesta / gitmoji
+Last Stared: sxei / chrome-plugin-demo
 
 # 目录
 
@@ -48,6 +48,10 @@ Last Stared: carloscuesta / gitmoji
 
 [~~vue-ruler-tool~~](https://github.com/gorkys/vue-ruler-tool) 一个基于vue的标尺辅助线工具
 
+[ViewUI](https://github.com/view-design/ViewUI) ViewUI
+
+[~~vue-drag-tree-table~~](https://github.com/mafengwo/vue-drag-tree-table) 可拖拽的表格树
+
 ## JavaScript
 
 [particles.js](https://github.com/VincentGarreau/particles.js) 粒子效果的背景
@@ -63,6 +67,10 @@ Last Stared: carloscuesta / gitmoji
 [~~Motrix~~](https://github.com/agalwood/Motrix) 一款全能的下载工具
 
 [~~baidu-netdisk-downloaderx~~](https://github.com/b3log/baidu-netdisk-downloaderx) 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac
+
+[~~eureka-js-client~~](https://github.com/jquatier/eureka-js-client) js实现的eureka客户端
+
+[~~chrome-plugin-demo~~](https://github.com/sxei/chrome-plugin-demo) 《Chrome插件开发全攻略》配套完整Demo
 
 ## Java
 
@@ -101,3 +109,7 @@ Last Stared: carloscuesta / gitmoji
 [nocode](https://github.com/kelseyhightower/nocode) 没有代码
 
 [gitmoji](https://github.com/carloscuesta/gitmoji) git表情
+
+[~~funNLP~~](https://github.com/fighting41love/funNLP) 各种自然语言处理
+
+[hello-world](https://github.com/leachim6/hello-world) 各种语言的hello world
