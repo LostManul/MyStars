@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: sxei / chrome-plugin-demo
+Last Stared: LisaDziuba / Awesome-Design-Tools
 
 # 目录
 
@@ -72,6 +72,8 @@ Last Stared: sxei / chrome-plugin-demo
 
 [~~chrome-plugin-demo~~](https://github.com/sxei/chrome-plugin-demo) 《Chrome插件开发全攻略》配套完整Demo
 
+[elasticsearch-head](https://github.com/mobz/elasticsearch-head) elasticsearch的前端
+
 ## Java
 
 [HanLP](https://github.com/hankcs/HanLP) 中文处理
@@ -113,3 +115,5 @@ Last Stared: sxei / chrome-plugin-demo
 [~~funNLP~~](https://github.com/fighting41love/funNLP) 各种自然语言处理
 
 [hello-world](https://github.com/leachim6/hello-world) 各种语言的hello world
+
+[Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) 设计工具整理
