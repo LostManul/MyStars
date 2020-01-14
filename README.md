@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: LisaDziuba / Awesome-Design-Tools
+Last Stared: ripienaar / free-for-dev
 
 # 目录
 
@@ -80,6 +80,8 @@ Last Stared: LisaDziuba / Awesome-Design-Tools
 
 [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
 
+[termux-app](https://github.com/termux/termux-app) Android的Linux环境
+
 ## Go
 
 [~~pan-light~~](https://github.com/peterq/pan-light) 百度网盘不限速客户端
@@ -117,3 +119,5 @@ Last Stared: LisaDziuba / Awesome-Design-Tools
 [hello-world](https://github.com/leachim6/hello-world) 各种语言的hello world
 
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) 设计工具整理
+
+[free-for-dev](https://github.com/ripienaar/free-for-dev) 各种免费产品的整理
