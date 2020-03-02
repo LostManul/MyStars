@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-Last Stared: ripienaar / free-for-dev
+最近一次更新此项目时最后的Star: gfwlist / gfwlist
 
 # 目录
 
@@ -32,7 +32,7 @@ Last Stared: ripienaar / free-for-dev
 
 [~~Vue.Draggable~~](https://github.com/SortableJS/Vue.Draggable) 拖拽排序
 
-[~~vue-slicksort~~](https://github.com/Jexordexan/vue-slicksort) 拖拽排序
+[vue-slicksort](https://github.com/Jexordexan/vue-slicksort) 拖拽排序
 
 [~~eagle.js~~](https://github.com/Zulko/eagle.js) 幻灯片
 
@@ -70,7 +70,7 @@ Last Stared: ripienaar / free-for-dev
 
 [~~eureka-js-client~~](https://github.com/jquatier/eureka-js-client) js实现的eureka客户端
 
-[~~chrome-plugin-demo~~](https://github.com/sxei/chrome-plugin-demo) 《Chrome插件开发全攻略》配套完整Demo
+[chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) 《Chrome插件开发全攻略》配套完整Demo
 
 [elasticsearch-head](https://github.com/mobz/elasticsearch-head) elasticsearch的前端
 
@@ -114,10 +114,12 @@ Last Stared: ripienaar / free-for-dev
 
 [gitmoji](https://github.com/carloscuesta/gitmoji) git表情
 
-[~~funNLP~~](https://github.com/fighting41love/funNLP) 各种自然语言处理
+[funNLP](https://github.com/fighting41love/funNLP) 各种自然语言处理
 
 [hello-world](https://github.com/leachim6/hello-world) 各种语言的hello world
 
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) 设计工具整理
 
 [free-for-dev](https://github.com/ripienaar/free-for-dev) 各种免费产品的整理
+
+[gfwlist](https://github.com/gfwlist/gfwlist) GFWList
