@@ -2,8 +2,6 @@
 
 最近一次更新此项目时最后的Star: huiyadanli / RevokeMsgPatcher
 
-[TOC]
-
 ## Vue
 
 [awesome-vue](https://github.com/vuejs/awesome-vue) Vue相关项目整理
