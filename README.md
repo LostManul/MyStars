@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-最近一次更新此项目时最后的Star: gfwlist / gfwlist
+最近一次更新此项目时最后的Star: huiyadanli / RevokeMsgPatcher
 
 # 目录
 
@@ -13,6 +13,8 @@
 [Go](#Go)
 
 [CSharp](#CSharp)
+
+[C++](#C++)
 
 [Ruby](#Ruby)
 
@@ -82,6 +84,8 @@
 
 [termux-app](https://github.com/termux/termux-app) Android的Linux环境
 
+[elasticsearch-analysis-ansj](https://github.com/NLPchina/elasticsearch-analysis-ansj) ElasticSearch中文分词
+
 ## Go
 
 [~~pan-light~~](https://github.com/peterq/pan-light) 百度网盘不限速客户端
@@ -98,11 +102,21 @@
 
 [PKHeX](https://github.com/kwsch/PKHeX) pokemon存档修改
 
+[~~ImageGlass~~](https://github.com/d2phap/ImageGlass) 图片查看
+
+[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) PC版微信/QQ/TIM防撤回补丁
+
+## C++
+
+[godot](https://github.com/godotengine/godot) 游戏引擎
+
 ## Ruby
 
 [whenever](https://github.com/javan/whenever) 定时任务
 
 [lolcat](https://github.com/busyloop/lolcat) 输出彩虹文本
+
+[byebug](https://github.com/deivid-rodriguez/byebug) 调试
 
 ## Other
 
