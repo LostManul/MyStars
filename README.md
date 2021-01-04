@@ -2,23 +2,7 @@
 
 最近一次更新此项目时最后的Star: huiyadanli / RevokeMsgPatcher
 
-# 目录
-
-[Vue](#Vue)
-
-[JavaScript](#JavaScript)
-
-[Java](#Java)
-
-[Go](#Go)
-
-[C\#](#C\\#)
-
-[C\+\+](#C\\+\\+)
-
-[Ruby](#Ruby)
-
-[Other](#Other)
+[TOC]
 
 ## Vue
 
