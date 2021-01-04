@@ -12,9 +12,9 @@
 
 [Go](#Go)
 
-[CSharp](#CSharp)
+[C\#](#C\#)
 
-[C++](#C++)
+[C\+\+](#C\+\+)
 
 [Ruby](#Ruby)
 
@@ -92,7 +92,7 @@
 
 [~~aiduPCS-Go~~](https://github.com/iikira/BaiduPCS-Go) 百度网盘客户端
 
-## CSharp
+## C\#
 
 [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) SSR客户端
 
@@ -106,7 +106,7 @@
 
 [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) PC版微信/QQ/TIM防撤回补丁
 
-## C++
+## C\+\+
 
 [godot](https://github.com/godotengine/godot) 游戏引擎
 
