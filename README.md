@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-最近一次更新此项目时最后的Star: huiyadanli / RevokeMsgPatcher
+最近一次更新此项目时最后的Star: microsoft / PowerToys
 
 ## Vue
 
@@ -48,9 +48,7 @@
 
 [bpmn-js](https://github.com/bpmn-io/bpmn-js) bpmn设计器
 
-[~~Motrix~~](https://github.com/agalwood/Motrix) 一款全能的下载工具
-
-[~~baidu-netdisk-downloaderx~~](https://github.com/b3log/baidu-netdisk-downloaderx) 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac
+[Motrix](https://github.com/agalwood/Motrix) 一款全能的下载工具
 
 [~~eureka-js-client~~](https://github.com/jquatier/eureka-js-client) js实现的eureka客户端
 
@@ -119,3 +117,6 @@
 [free-for-dev](https://github.com/ripienaar/free-for-dev) 各种免费产品的整理
 
 [gfwlist](https://github.com/gfwlist/gfwlist) GFWList
+
+[~~PowerToys~~](https://github.com/microsoft/PowerToys) windows工具
+
