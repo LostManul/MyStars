@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-最近一次更新此项目时最后的Star: jmrozanec / pdf-converter
+最近一次更新此项目时最后的Star: yarnpkg / yarn
 
 # Vue组件
 
@@ -49,8 +49,6 @@
 [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
 
 [elasticsearch-analysis-ansj](https://github.com/NLPchina/elasticsearch-analysis-ansj) ElasticSearch中文分词
-
-[~~pdf-converter~~](https://github.com/jmrozanec/pdf-converter) pdf转图片
 
 # Ruby
 
