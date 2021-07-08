@@ -1,6 +1,6 @@
 自己Star的Github项目的整理，链接部分有删除线的表示没有实际使用过
 
-最近一次更新此项目时最后的Star: yarnpkg / yarn
+最近一次更新此项目时最后的Star: karminski / pineapple
 
 # Vue组件
 
@@ -55,6 +55,10 @@
 [whenever](https://github.com/javan/whenever) 定时任务
 
 [byebug](https://github.com/deivid-rodriguez/byebug) 调试
+
+# GDScript
+
+[chart-gd](https://github.com/binogure-studio/chart-gd) 图表
 
 # 教程
 
@@ -114,6 +118,10 @@
 
 [yarn](https://github.com/yarnpkg/yarn) 类似npm的包管理
 
+[AssetStudio](https://github.com/Perfare/AssetStudio) Unity游戏资源提取
+
+[poi](https://github.com/poooi/poi) 砍口垒浏览器
+
 # 整理
 
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) 设计工具整理
@@ -127,3 +135,7 @@
 [awesome-vue](https://github.com/vuejs/awesome-vue) Vue相关项目整理
 
 [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) Vue相关项目整理（中文，但已经停止更新）
+
+[architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱
+
+[~~~pineapple~~~](https://github.com/karminski/pineapple) 构建编程语言
